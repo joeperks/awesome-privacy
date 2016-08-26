@@ -25,9 +25,14 @@ http://www.democracynow.org/topics/privacy
 http://www.ieee-security.org/TC/SP2017/  
 https://petsymposium.org/  
 
-## Technologies
+## Technologies/Tools
 http://maidsafe.net/  
 https://urbit.org/  
+### Email
+https://mailbox.org/en/  
+https://protonmail.com/  
+https://www.virtru.com/  
+
 
 ## Videos and Other Media
 [Glenn Greenwald:Why privacy matters](https://www.youtube.com/watch?v=pcSlowAhvUk)  
