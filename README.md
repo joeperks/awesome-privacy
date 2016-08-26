@@ -31,3 +31,6 @@ https://urbit.org/
 ## Videos and Other Media
 [Glenn Greenwald:Why privacy matters](https://www.youtube.com/watch?v=pcSlowAhvUk)  
 http://www.foreveryone.net/  
+
+## Misc.
+https://github.com/redecentralize/alternative-internet  
