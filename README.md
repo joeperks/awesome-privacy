@@ -31,6 +31,8 @@ https://urbit.org/
 ## Videos and Other Media
 [Glenn Greenwald:Why privacy matters](https://www.youtube.com/watch?v=pcSlowAhvUk)  
 http://www.foreveryone.net/  
+[Edward Snowden, Glenn Greenwald & Noam Chomsky - A Conversation on Privacy](https://www.youtube.com/watch?v=IOksJKfapVM)  
+
 
 ## Misc.
 https://github.com/redecentralize/alternative-internet  
