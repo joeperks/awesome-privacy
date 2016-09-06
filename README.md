@@ -28,6 +28,7 @@ https://petsymposium.org/
 
 ## Technologies/Tools
 http://maidsafe.net/  
+http://umbra.shadowproject.io  
 https://urbit.org/  
 ### Email
 https://mailbox.org/en/  
