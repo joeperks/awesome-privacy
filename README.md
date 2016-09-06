@@ -8,6 +8,7 @@ https://guardianproject.info/
 
 http://www.law.du.edu/index.php/privacy-foundation  
 https://redmorph.com  
+https://www.privacyinternational.org  
 https://citizenlab.org/  
 http://peoplecentered.net/  
 http://derechosdigitales.tumblr.com/  
